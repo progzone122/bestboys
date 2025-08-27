@@ -41,3 +41,8 @@ wget -O boy.png https://raw.githubusercontent.com/progzone122/bestboys/main/boy.
 
 ## Contribute
 Please, if you want to add a new best boy’s photo or add a new best boy in general, refer to the [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+
+
+### опа внезапный пингвин 1кг
+![320kg_puzo](./images/320kg_puzo.jpg)
