@@ -6,7 +6,10 @@
 - Only good quality *(If it is impossible to find good. quality, upscaling using AI is permitted)*.
 - No NSFW *(This is GitHub, sorry, man)*.
 - Carefully organize images into directories.
-- Write the title of the image so that it is immediately clear what is in the image.
+- Use a timestamp to specify the image name!
+	```shell
+	date +%s  
+	```
 - The following formats are permitted: 
 	* .png
 	* .jpg
