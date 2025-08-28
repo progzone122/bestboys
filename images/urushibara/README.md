@@ -1,5 +1,5 @@
-# <ENTER_BOY_NAME>
-<Describe_why_this_boy_is_the_best,_his_special_qualities>.
+# Urushibara
+The best "girl" from Steins;Gate.
 
 ## Assets
 - [Wallpapers](wallpapers)
